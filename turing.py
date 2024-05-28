@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Leonard Kleinrock (Nova Iorque, 13 de junho de 1934) é um engenheiro e cientista da computação e professor de ciência da computação da Escola de Engenharia e Ciências Aplicadas da Universidade da Califórnia em Los Angeles (UCLA), que fez diversas contribuições importantes para o campo das redes de computadores, em especial para o lado teórico das redes de computadores e da teoria das filas. Ele também desempenhou um papel importante no desenvolvimento da Arpanet, a precursora da Internet, na UCLA."
+    mensagem = ""
     return mensagem
 
 
 def doutorado():
-    mensagem = "O Professor Doutor Kleinrock recebeu o seu grau de doutoramento do Instituto de Tecnologia de Massachusetts, em 1963."
+    mensagem = ""
     return mensagem
 
 
 def contribuicoes():
-    mensagem = "O Professor Doutor Kleinrock ganhou maior reconhecimento quando recebeu, em 2007, a Medalha Nacional da Ciência, o mais alto reconhecimento para feitos científicos, atribuída pelo Presidente dos Estados Unidos. Esta Medalha foi concedida pelas contribuições essenciais no que respeita aos fundamentos matemáticos da ciência da computação moderna, à especificação funcional de comutação de pacotes que deu origem à Internet, à orientação de gerações de estudantes e liderança e comercialização de tecnologias que transformaram o mundo."
+    mensagem = ""
     return mensagem
 
 
